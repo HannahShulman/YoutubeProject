@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_3593d9f34610cedfb3757d891a0ec61f4b40f892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_275db72ba36e8e23d1501745180fb13f1f67a26d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_1cb74784d0ac479beab6cb14c5ccca131fc3bdf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/okio-1.4.0_dce8f8f3baa47db5e0feff71461aa7bfc4c10d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_32bc10790dce8c909b4763e3f76dcc0787a588c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_eef601169322250044590472e746a7139e6b519e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0_080c8b1dd7955056e7a6f5c8874107a134515c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_7204e358f89c056a8afde2a849a56cf3a4a22b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/glide-3.5.2_04a0c08816ac2f7a19f23e5c1960e8745f56d0a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_ea282f37d7d28c0d594199473e54393b86d37335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_e0579ade4cc6ae1957f01d3c39bfbb50f8da70f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_fcc6e7dfaf7b8df2db6d808f1f47380ceacd0c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_5cbcafcda01ea3bff7f0f5ec453158f7b401c1ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c5685f4eaa11aa93db262f1fce8057ed8750c65f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_cb9a3c2fe63bfff4bc54f889d2ee8217a47cdc7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/Desktop/sample/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_5e3bb97c25119245eba1d7a75d31b28e63c026d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hannashulmah/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/hannashulmah/Desktop/sample/app/build/intermediates/pre-dexed/debug/gson-2.3.1_768a41df594aa5ec55d8b5aecb4c7c6645e2c30b.jar" />
+    </item>
+
+</items>
